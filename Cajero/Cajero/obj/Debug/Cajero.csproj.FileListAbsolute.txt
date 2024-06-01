@@ -1,0 +1,14 @@
+C:\Users\Dylan\Desktop\ExamenFinal - DylanRosales - 20003278\Cajero\Cajero\bin\Debug\Cajero.exe.config
+C:\Users\Dylan\Desktop\ExamenFinal - DylanRosales - 20003278\Cajero\Cajero\bin\Debug\Cajero.exe
+C:\Users\Dylan\Desktop\ExamenFinal - DylanRosales - 20003278\Cajero\Cajero\bin\Debug\Cajero.pdb
+C:\Users\Dylan\Desktop\ExamenFinal - DylanRosales - 20003278\Cajero\Cajero\obj\Debug\Cajero.csproj.AssemblyReference.cache
+C:\Users\Dylan\Desktop\ExamenFinal - DylanRosales - 20003278\Cajero\Cajero\obj\Debug\Cajero.Form1.resources
+C:\Users\Dylan\Desktop\ExamenFinal - DylanRosales - 20003278\Cajero\Cajero\obj\Debug\Cajero.Properties.Resources.resources
+C:\Users\Dylan\Desktop\ExamenFinal - DylanRosales - 20003278\Cajero\Cajero\obj\Debug\Cajero.csproj.GenerateResource.cache
+C:\Users\Dylan\Desktop\ExamenFinal - DylanRosales - 20003278\Cajero\Cajero\obj\Debug\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Desktop\ExamenFinal - DylanRosales - 20003278\Cajero\Cajero\obj\Debug\Cajero.exe
+C:\Users\Dylan\Desktop\ExamenFinal - DylanRosales - 20003278\Cajero\Cajero\obj\Debug\Cajero.pdb
+C:\Users\Dylan\Desktop\ExamenFinal - DylanRosales - 20003278\Cajero\Cajero\obj\Debug\Cajero.OperacionesCajero.resources
+C:\Users\Dylan\Desktop\ExamenFinal - DylanRosales - 20003278\Cajero\Cajero\obj\Debug\Cajero.Deposito.resources
+C:\Users\Dylan\Desktop\ExamenFinal - DylanRosales - 20003278\Cajero\Cajero\obj\Debug\Cajero.Retiro.resources
+C:\Users\Dylan\Desktop\ExamenFinal - DylanRosales - 20003278\Cajero\Cajero\obj\Debug\Cajero.Consulta.resources
